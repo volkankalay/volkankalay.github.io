@@ -1,15 +1,55 @@
-### Hi there  :wave:
+# Overview
 
-# About Me
+## Hi there  :wave:
 
-:heavy_minus_sign: I am a computer engineer and software developer.:computer:
-:heavy_minus_sign: I live in Turkey. :house:
-:heavy_minus_sign: I am currently learning as always. :dizzy:
-:heavy_minus_sign: I am creating web pages, mobile applications and desktop applications. :thumbsup:
+### About Me
 
-# Contact
-:heavy_minus_sign: E-Mail: hi@vlkn.icu :mailbox:
-:heavy_minus_sign: Page: https://vlkn.icu :globe_with_meridians:
-:heavy_minus_sign: Address: Zonguldak, Turkey :house:
+:heavy_minus_sign: :computer: I am a computer engineer and software developer.
 
-# Skills
+:heavy_minus_sign: :house: I live in Turkey.
+
+:heavy_minus_sign: :dizzy: I am currently learning as always.
+
+:heavy_minus_sign: :thumbsup: I am creating web pages, mobile applications and desktop applications.
+
+
+### Contact
+:heavy_minus_sign: :mailbox: E-Mail: hi@vlkn.icu
+
+:heavy_minus_sign: :globe_with_meridians: Page: https://vlkn.icu
+
+:heavy_minus_sign: :house: Address: Zonguldak, Turkey
+
+### Skills
+
+##### Application Development
+
+:heavy_minus_sign: C++
+
+:heavy_minus_sign: C#
+
+##### Web Development
+
+:heavy_minus_sign: PHP
+:heavy_minus_sign: HTML
+:heavy_minus_sign: CSS
+
+###### Frameworks
+
+:heavy_minus_sign: Laravel
+
+:heavy_minus_sign: Bootstrap
+
+###### Embedded Systems
+
+:heavy_minus_sign: Arduino
+
+###### Database Management
+
+:heavy_minus_sign: MSSQL
+:heavy_minus_sign: MySQL
+:heavy_minus_sign: Firebase
+
+##### Others
+:heavy_minus_sign: Python
+:heavy_minus_sign: Java
